@@ -1,0 +1,128 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-size: 53px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+h2{
+    font-size: 45px;
+}
+h3{
+    font-size: 35px;
+}
+h5{
+font-size: 16px;
+font-weight: 400;
+line-height: 70px;
+}
+p{
+    font-size: 16px;
+    margin-bottom: 32px;
+}
+.top-banner h1{
+    line-height: 63px;
+    border-left: 5px solid rgb(31, 182, 1);
+    padding-left: 12px;
+
+}
+
+.mission-area{
+    padding: 3% 8% 3% 8%;
+}
+.mission-area h2{
+    text-align: center;
+    font-weight: 700;
+}
+.half-width{
+    width: 50%;
+    padding: 3% 8% 3% 8%;
+}
+.orange-color{
+    color: orange;
+}
+.flex{
+    display: flex;
+}
+.half-width img{
+    width: 80%;
+}
+.link-btn{
+    font-size: 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 12px 20px 12px 20px;
+    background: #FF5959;
+    font-weight: 500;
+    font-size: 16px;
+    color: white;
+}
+.grid-item{
+    width: 24%;
+    padding: 3%;
+    margin: 1%;
+    border-radius: 30px;
+}
+.grid-item img{
+    width: 55%;
+}
+.item-one{
+    background: #4F9DA61A;
+}
+.item-two{
+    background: #FF59591A;
+
+}
+.item-three{
+    background: #FFF4D6;
+
+}
+.info-bar-left{
+    width: 45%;
+    padding-right: 8%;
+}
+.info-bar-right{
+    width: 55%;
+    padding-right: 15%;
+    
+}
+.info-bar-two p{
+    padding-right: 20%;
+}
+.success-area img{
+    width: 100%;
+}
+.community-area img{
+    width: 90%;
+}
+.success-area{
+    padding: 3% 8% 3% 8%;
+}
+.community-area{
+    padding: 3% 8% 3% 8%;
+}
+.read-btn{
+    background: #FF5959;
+    padding: 12px 20px 12px 20px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+.our-experience-area{
+    padding: 8% 8% 4% 8%;
+    text-align: center;
+}
+#footer-area{
+    text-align: center;
+    background: #0B0D17;
+    padding: 2%;
+    color: white;
+}
+.footer-color{
+    color:chocolate
+}
